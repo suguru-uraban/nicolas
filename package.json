@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "remarkable": "^1.6.2",
+    "superagent": "^2.2.0"
   }
 }
